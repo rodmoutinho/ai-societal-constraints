@@ -91,7 +91,7 @@ AIRSI 2025 Conference Proceedings.
 - **Rodrigo Moutinho**  
   PhD Candidate, NOVA IMS 
   20220362@novaims.unl.pt 
-  [rodmoutinho.github.io](https://github.com/rodmoutinho)
+
 
 ---
 
