@@ -1,0 +1,6 @@
+# Ignore all CSV files in the data folder
+data/*.csv
+
+# (Optional) ignore any other large files like Excel or JSON
+data/*.xlsx
+data/*.json

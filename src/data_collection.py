@@ -5,7 +5,7 @@ import pandas as pd
 import time
 
 # Replace with your API key
-api_key = "AIzaSyDbtjsCQ5ISOlpHaLZiutSkuMEvQQQBXE4"
+api_key = "api"
 
 # Configure the YouTube service
 youtube = build("youtube", "v3", developerKey=api_key)
